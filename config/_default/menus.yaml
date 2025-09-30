@@ -1,0 +1,177 @@
+leftnav:
+- identifier: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 526193cf-30da-cdf1-c673-4faab57d51d7
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: e7ab07a5-9bf4-78a1-8a95-a815093ec211
+  name: 'Day 1: Identity and Genre'
+  pageRef: /pages/day-1-identity-and-genre
+  weight: 30
+- identifier: 3da88bd7-fc04-b288-6227-11604ae6a159
+  name: 'Day 2: Audience'
+  pageRef: /pages/day-2-audience
+  weight: 40
+- identifier: 36586ba5-68db-37ca-a516-348b595214d8
+  name: 'Day 3: Storyteller''s Toolkit Pt. 1'
+  pageRef: /pages/day-3-storytellers-toolkit-pt--1
+  weight: 50
+- identifier: 60a6ea96-1026-802d-98a9-351ce3b38557
+  name: 'Day 4: Storyteller''s Toolkit Pt. 2'
+  pageRef: /pages/day-4-storytellers-toolkit-pt--2
+  weight: 60
+- identifier: eee7bfe9-1be2-975c-496f-b04747f0e092
+  name: 'Day 5: Storyteller''s Toolkit Pt. 3'
+  pageRef: /pages/day-5-storytellers-toolkit-pt--3
+  weight: 70
+- identifier: 7c38a44e-5ebb-8403-cf21-c2adc0137e4b
+  name: 'Day 6: Table-read and Office Hours'
+  pageRef: /pages/day-6-table-read-and-office-hours
+  weight: 80
+- identifier: d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d
+  name: 'Day 7: Table-read and Post-production'
+  pageRef: /pages/day-7-table-read-and-post-production
+  weight: 90
+- identifier: dd2e9064-39f5-8292-7c78-a9141317dcc6
+  name: 'Days 8, 9, & 10: Project Time'
+  pageRef: /pages/days-8-9-10-project-time
+  weight: 100
+- identifier: 91a83a5a-9923-d001-da64-fbbcd37341cb
+  name: 'Days 11 & 12: Screening (Rough Cuts)'
+  pageRef: /pages/day-11-12-screening-rough-cuts
+  weight: 110
+- identifier: 2dc5287f-35ed-e833-9c9b-93f4238ac687
+  name: 'Day 13: Screening (Final Cuts)'
+  pageRef: /pages/day-13-screening-final-cuts
+  weight: 120
+- identifier: 6df56ca8-6d88-4c27-d497-aee73b724945
+  name: Student Projects
+  pageRef: /pages/student-projects/
+  weight: 130
+- identifier: dadfeb11-98fb-e700-d205-d71a4c85f081
+  name: Student Reflections
+  pageRef: /pages/student-reflections/
+  weight: 140
+- identifier: 32b7558a-888d-a05c-b9fc-29fe9381506b
+  name: Meet the Instructors
+  pageRef: /pages/syllabus/meet-the-instructors
+  parent: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  weight: 10
+- identifier: 425fa285-f1a6-adea-4de3-e852e4e9b44a
+  name: Calendar
+  pageRef: /pages/syllabus/calendar
+  parent: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  weight: 20
+- identifier: 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf
+  name: Grading
+  pageRef: /pages/syllabus/grading
+  parent: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  weight: 30
+- identifier: 762628fe-626b-dca9-9e46-4c51f60992c0
+  name: Class Policies
+  pageRef: /pages/syllabus/class-policies
+  parent: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  weight: 40
+- identifier: ad3ae351-22ea-cbd5-88b3-8186e7c06469
+  name: Equipment
+  pageRef: /pages/syllabus/equipment
+  parent: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  weight: 50
+- identifier: eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12
+  name: Editing
+  pageRef: /pages/syllabus/editing
+  parent: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  weight: 60
+- identifier: d6745b83-32b8-0e0a-86c1-9e2d07a85d87
+  name: Readings
+  pageRef: /pages/syllabus/readings
+  parent: 203eeb3a-4839-933a-901c-efa7c34f24d7
+  weight: 70
+- identifier: a0230e42-8e9a-fc43-9b16-25558c1717d3
+  name: Planning Backwards
+  pageRef: /pages/instructor-insights/planning-backwards
+  parent: 526193cf-30da-cdf1-c673-4faab57d51d7
+  weight: 10
+- identifier: f1e55a73-f7ce-a5df-7f8c-3cdb40b62292
+  name: Grading and Feedback in a Course Focused on Creative Work
+  pageRef: /pages/instructor-insights/grading-and-feedback-in-a-course-focused-on-creative-work
+  parent: 526193cf-30da-cdf1-c673-4faab57d51d7
+  weight: 20
+- identifier: 21d57d5a-7bfd-9ae9-4ece-2d578ddbf16c
+  name: Cultivating a Healthy Classroom Culture
+  pageRef: /pages/instructor-insights/cultivating-a-healthy-classroom-culture
+  parent: 526193cf-30da-cdf1-c673-4faab57d51d7
+  weight: 30
+- identifier: a8052e86-91ed-d84e-9df2-c28f872ebec6
+  name: Kenneth Cheah's Project
+  pageRef: /pages/student-projects/kenneth-cheahs-project
+  parent: 6df56ca8-6d88-4c27-d497-aee73b724945
+  weight: 10
+- identifier: 32b67e5b-5210-05d4-f811-9b60fb7ee964
+  name: Joshua Cheong's Project
+  pageRef: /pages/student-projects/joshua-cheongs-project
+  parent: 6df56ca8-6d88-4c27-d497-aee73b724945
+  weight: 20
+- identifier: 1d079dd5-c0b4-174a-4773-f2520a5e0743
+  name: Andrea Desrosiers' Project
+  pageRef: /pages/student-projects/andrea-desrosierss-project
+  parent: 6df56ca8-6d88-4c27-d497-aee73b724945
+  weight: 30
+- identifier: 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4
+  name: Nathan Hernandez's Project
+  pageRef: /pages/student-projects/nathan-hernandezs-project
+  parent: 6df56ca8-6d88-4c27-d497-aee73b724945
+  weight: 40
+- identifier: 199a8a68-327f-ee7d-62ee-54642710c541
+  name: Yuliya Klochan's Project
+  pageRef: /pages/student-projects/yuliya-klochans-project
+  parent: 6df56ca8-6d88-4c27-d497-aee73b724945
+  weight: 50
+- identifier: a70c0b56-5698-6d46-0ee2-e877495297b2
+  name: David Yam's Project
+  pageRef: /pages/student-projects/david-yams-project
+  parent: 6df56ca8-6d88-4c27-d497-aee73b724945
+  weight: 60
+- identifier: b923e518-c6b9-9f57-0dd9-04b61083f145
+  name: Elizabeth Choe's Reflections
+  pageRef: /pages/student-reflections/elizabeth-choes-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 10
+- identifier: 1d988e03-5e65-811f-e6d8-e82355f3c4a7
+  name: Ceri Riley's Reflections
+  pageRef: /pages/student-reflections/ceri-rileys-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 20
+- identifier: e9794c3b-05c8-8173-ff70-a55f9946067b
+  name: Kenneth Cheah's Reflections
+  pageRef: /pages/student-reflections/kenneth-cheahs-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 30
+- identifier: 7b1a98fc-328d-4951-fd19-a2109aff7506
+  name: Joshua Cheong's Reflections
+  pageRef: /pages/student-reflections/joshua-cheongs-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 40
+- identifier: 0a26ad07-4929-732e-5270-b0bfe8bbced9
+  name: Andrea Desrosiers's Reflections
+  pageRef: /pages/student-reflections/andrea-desrosierss-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 50
+- identifier: f96632a8-8b42-25f3-f84e-318abddd7856
+  name: Nathan Hernandez's Reflections
+  pageRef: /pages/student-reflections/nathan-hernandezs-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 60
+- identifier: 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c
+  name: Yuliya Klochan's Reflections
+  pageRef: /pages/student-reflections/yuliya-klochans-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 70
+- identifier: 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564
+  name: David Yam's Reflections
+  pageRef: /pages/student-reflections/david-yams-reflections
+  parent: dadfeb11-98fb-e700-d205-d71a4c85f081
+  weight: 80
