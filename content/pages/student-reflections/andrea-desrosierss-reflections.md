@@ -15,7 +15,7 @@ uid: 0a26ad07-4929-732e-5270-b0bfe8bbced9
 
 [Day 1](#Day_1_Andrea_s_Struggles) | [Day 2](#Day_2_Andrea_s_Struggles) | [Day 3](#Day_3_Reflections) | [Day 4](#Day_4) | [Day 5](#Day_5-Andrea_And_the_Camera) | [Day 6](#Day_6_Vlog) | [Day 7](#Day_7_Vlog) | [Day 8](#Day_8_Reflection-Andrea_on_Video) | [Day 11](#Day_11-Andrea_s_Final_Thoughts) | [Final Reflection](#Videos-Andrea)
 
-[*Link to* *Andrea Desrosiers' Page on Tumblr*](http://mit219.tumblr.com/tagged/aedesros)
+{{% resource_link "59f1ca47-774b-4585-a154-76e618ba0f4c" "*Link to* *Andrea Desrosiers' Page on Tumblr*" %}}
 
 ## {{< anchor "Day_1_Andrea_s_Struggles" >}}{{< /anchor >}}Day 1 - Andrea's Struggles
 
@@ -56,7 +56,7 @@ OK, on to script writing….
 
 {{< resource uuid="d4157cb4-3db3-0701-8e18-64aec685547e" >}}
 
-This audio is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
+This audio is courtesy of {{% resource_link "59f1ca47-774b-4585-a154-76e618ba0f4c" "Andrea Desrosiers" %}} on Tumblr and is provided under our Creative Commons license.
 
 {{% resource_link "36586ba5-68db-37ca-a516-348b595214d8" "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
@@ -86,7 +86,7 @@ One of my goals in this class was to get more comfortable both behind and in fro
 
 {{< resource uuid="88e5ceae-a260-5da6-4b47-77aa5e26d311" >}}
 
-This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "027dc6aa-a7d6-4198-acdd-39013df1810e" "Andrea Desrosiers" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "Link back to Day 6" "#Instructor_and_Student_Work" %}}
 
@@ -94,7 +94,7 @@ This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC
 
 {{< resource uuid="42f5a12c-5041-52c4-579b-e60dff4e6130" >}}
 
-This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "027dc6aa-a7d6-4198-acdd-39013df1810e" "Andrea Desrosiers" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "Link back to Day 7" "#Instructor_and_Student_Work" %}}
 
@@ -132,7 +132,7 @@ Have a great spring semester everyone!
 
 I did want to wait to write this until after I had the experience of working with a pro crew. Wow, exhilarating and exhausting at the same time - I had to take yesterday (and some Toscanini's mimosa sorbet) to recover.
 
-Out of the entire experience, from ideation to script writing to shooting to editing to repeat, it would be easy for me to stick with the part I feel most comfortable with - the script writing part. But we only get growth when we throw ourselves at the things we suck at. It was reiterated when my sister-in-law (an artist) posted something on Facebook that was a riff on the Ira Glass piece that Elizabeth showed (here: [What Ira Glass Explains In 1 - Minute Will Change Your Life Forever. Seriously.](https://www.reddit.com/r/GetMotivated/duplicates/2ymtjw/video_what_ira_glass_explains_in_1minute_will/)), namely that when you create art, often it's pretty bad when you first start out. And because you have good taste, you \*know\* it's bad. And often, that's when people quit, because of that gap between what you want to accomplish and what you did accomplish.
+Out of the entire experience, from ideation to script writing to shooting to editing to repeat, it would be easy for me to stick with the part I feel most comfortable with - the script writing part. But we only get growth when we throw ourselves at the things we suck at. It was reiterated when my sister-in-law (an artist) posted something on Facebook that was a riff on the Ira Glass piece that Elizabeth showed (here: {{% resource_link "da83dce0-ae78-4df8-9bb0-45ec6ba483da" "What Ira Glass Explains In 1 - Minute Will Change Your Life Forever. Seriously." %}}), namely that when you create art, often it's pretty bad when you first start out. And because you have good taste, you \*know\* it's bad. And often, that's when people quit, because of that gap between what you want to accomplish and what you did accomplish.
 
 I'm so glad I didn't quit this class. But it was close there for a while…
 

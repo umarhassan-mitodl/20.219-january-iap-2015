@@ -15,7 +15,7 @@ uid: f96632a8-8b42-25f3-f84e-318abddd7856
 
 [Day 1](#Hiji_s_Day_1_Thoughts) | [Day 2](#Hiji_s_Day_2_Thoughts) | [Day 3](#Day_3) | [Day 4](#Day_4_Reflection) | [Day 5](#Day_5_Reflection) | [Day 6](#Day_6_Reflection)
 
-[*Link to* *Nathan Hernandez's Page on Tumblr*](http://mit219.tumblr.com/tagged/hiji)
+{{% resource_link "85024e6a-8857-42dd-b439-e936849f04fa" "*Link to* *Nathan Hernandez's Page on Tumblr*" %}}
 
 ## {{< anchor "Hiji_s_Day_1_Thoughts" >}}{{< /anchor >}}Day 1 Thoughts
 
@@ -33,7 +33,7 @@ All in all. Good first day.
 
 {{< resource uuid="b1874025-c2cf-6690-52e9-a4c16b51a0c2" >}}
 
-{{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "This video is from " "#Instructor_and_Student_Work" %}} [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
+{{% resource_link "e7ab07a5-9bf4-78a1-8a95-a815093ec211" "This video is from " "#Instructor_and_Student_Work" %}} {{% resource_link "7a50e8e4-9798-4ed1-b1c0-0959aec87831" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "3da88bd7-fc04-b288-6227-11604ae6a159" "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
@@ -41,7 +41,7 @@ All in all. Good first day.
 
 {{< resource uuid="0c1bfe63-dedb-6068-f8f8-2152bc254271" >}}
 
-This video is from [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
+This video is from {{% resource_link "7a50e8e4-9798-4ed1-b1c0-0959aec87831" "WaywardLightning" %}} on YouTube and is provided under our Creative Commons license.
 
 Sorry that it's kind of disjoint and long
 
@@ -51,7 +51,7 @@ Sorry that it's kind of disjoint and long
 
 {{< resource uuid="5a2180c7-d4d7-7bcf-fa1e-4487b37626f9" >}}
 
-This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is provided under our Creative Commons license.
+This audio is from {{% resource_link "85024e6a-8857-42dd-b439-e936849f04fa" "hiji" %}} on Tumblr and is provided under our Creative Commons license.
 
 {{% resource_link "60a6ea96-1026-802d-98a9-351ce3b38557" "Link back to Day 4" "#Instructor_and_Student_Work" %}}
 
@@ -59,7 +59,7 @@ This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is
 
 {{< resource uuid="80b1e369-2503-0cbb-fb84-974fe391fb3e" >}}
 
-This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is provided under our Creative Commons license.
+This audio is from {{% resource_link "85024e6a-8857-42dd-b439-e936849f04fa" "hiji" %}} on Tumblr and is provided under our Creative Commons license.
 
 {{% resource_link "eee7bfe9-1be2-975c-496f-b04747f0e092" "Link back to Day 5" "#Instructor_and_Student_Work" %}}
 
@@ -67,7 +67,7 @@ This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is
 
 {{< resource uuid="10dcd9ef-0c24-c4dc-5dd5-917ec8220427" >}}
 
-This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is provided under our Creative Commons license.
+This audio is from {{% resource_link "85024e6a-8857-42dd-b439-e936849f04fa" "hiji" %}} on Tumblr and is provided under our Creative Commons license.
 
 {{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "Link back to Day 6" "#Instructor_and_Student_Work" %}}
 
