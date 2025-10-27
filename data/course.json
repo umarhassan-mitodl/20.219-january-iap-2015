@@ -46,8 +46,7 @@
     "website": "20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015"
   },
   "course_title": "Becoming the Next Bill Nye: Writing and Hosting the Educational Show",
-  "hide_download": true,
-  "course_description": "*Becoming the Next* [*Bill Nye*](https://en.wikipedia.org/wiki/Bill_Nye) is about using video production techniques to develop your ability to engagingly convey your passions for science, technology, engineering, and / or math. You'll have the opportunity to script and on-screen host 5-minute YouTube science, technology, engineering, and / or math-related shows to inspire youth to consider a future in science.",
+  "course_description": "*Becoming the Next* {{% resource_link \"591e4473-fd1c-4da0-9b9f-32cfd0bebdfb\" \"*Bill Nye*\" %}} is about using video production techniques to develop your ability to engagingly convey your passions for science, technology, engineering, and / or math. You'll have the opportunity to script and on-screen host 5-minute YouTube science, technology, engineering, and / or math-related shows to inspire youth to consider a future in science.",
   "department_numbers": [
     "20"
   ],
@@ -57,7 +56,6 @@
     "content": "785a79c5-0c00-d87b-818b-e3a0dc8a79ae",
     "website": "20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Lecture Videos",
     "Projects with Examples",

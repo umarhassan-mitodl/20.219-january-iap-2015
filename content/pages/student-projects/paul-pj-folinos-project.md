@@ -12,7 +12,7 @@ uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 ---
 « {{% resource_link "1d079dd5-c0b4-174a-4773-f2520a5e0743" "Previous" %}} | {{% resource_link "65f298a7-9f2a-0550-e78e-d9fc7ff17ff4" "Next" %}} »
 
-[*Link to Paul (PJ) Folino's Page on Tumblr*](http://mit219.tumblr.com/tagged/pjfolino)
+{{% resource_link "32d6d59e-001a-4593-ba7a-357da6d16761" "*Link to Paul (PJ) Folino's Page on Tumblr*" %}}
 
 ## Contents
 
@@ -32,7 +32,7 @@ uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 
 {{< resource uuid="1814d85e-b530-0b7d-b278-765feb1c8e78" >}}
 
-This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "d466327e-6571-4a08-979f-0f4df9bb0a6f" "Paul Folino" %}} on YouTube and is provided under our Creative Commons license.
 
 I have never been able to poach an egg well. Come to find out, there is a lot of science behind poaching eggs!
 
@@ -91,7 +91,7 @@ III. Conclusion
 
 {{< resource uuid="3c665d01-b608-9199-a462-cc2b1510e997" >}}
 
-This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "d466327e-6571-4a08-979f-0f4df9bb0a6f" "Paul Folino" %}} on YouTube and is provided under our Creative Commons license.
 
 The actual prototype is being thought of / designed. This subdivided "barge" WILL sink.
 
@@ -328,7 +328,7 @@ To Shoot:
 
 {{< resource uuid="1720fd56-2daa-9292-c39c-540daed6a7a8" >}}
 
-This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "d466327e-6571-4a08-979f-0f4df9bb0a6f" "Paul Folino" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "Link back to Day 11" "#Student_Work" %}}
 
@@ -336,7 +336,7 @@ This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQM
 
 {{< resource uuid="69cf2824-fede-94ba-b935-2c621e55fd61" >}}
 
-This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "d466327e-6571-4a08-979f-0f4df9bb0a6f" "Paul Folino" %}} on YouTube and is provided under our Creative Commons license.
 
 Creative Commons: CC BY-NC-SA, MIT
 
@@ -346,16 +346,16 @@ Written By: Paul Folino
 
 Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan, students of 20.219
 
-[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108847363726/pjfolino-subdivision-in-ships-creative)
+{{% resource_link "07604957-9c94-483c-ab29-ee230dd6840b" "See the full credits on the course Tumblr." %}}
 
 {{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "Link back to Day 13" "#Student_Work" %}}
 
 ## anchoranchorScience Out Loud
 
-Paul's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
+Paul's video was professionally produced by {{% resource_link "79738379-190e-4fcb-8000-15202901cf9b" "Science Out Loud" %}} after this course finished.
 
 {{< resource uuid="ea857e55-7047-3cef-ec6a-4f1ec40b5b97" >}}
 
-This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
+This video is from {{% resource_link "a3c492cb-6d4a-45af-954e-6101974055ef" "MITK12Videos" %}} on YouTube and is provided under their {{% resource_link "7a34b324-9cae-45c1-bf3c-11c9a1155e1f" "Creative Commons" %}} license.
 
 « {{% resource_link "1d079dd5-c0b4-174a-4773-f2520a5e0743" "Previous" %}} | {{% resource_link "65f298a7-9f2a-0550-e78e-d9fc7ff17ff4" "Next" %}} »
