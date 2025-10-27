@@ -19,7 +19,7 @@ Selected groups have the opportunity to continue optional development of episode
 
 Learn more here:
 
-Choe, E. "[Video Production as a Pathway for Building Identity,](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2969114)" _SSRN,_ May 16, 2017.
+Choe, E. "{{% resource_link "9cde8493-515b-490f-ad9f-4912caeaed0e" "Video Production as a Pathway for Building Identity," %}}" _SSRN,_ May 16, 2017.
 
 ## Course Outcomes
 
@@ -102,7 +102,7 @@ The students' grades were based on the following activities:
 ### Workshop products
 
 - Working independently or in small teams, students produced iterations of their final project components (scripts, storyboards, scenes, rough cuts, etc.)
-- Documents for reading assignments were posted on [Annotation Studio](http://www.annotationstudio.org). Students commented the documents with their responses to the readings and to their classmates. These assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work).
+- Documents for reading assignments were posted on {{% resource_link "5e1b4bfe-9ebd-482f-8581-804c9942b095" "Annotation Studio" %}}. Students commented the documents with their responses to the readings and to their classmates. These assignments were graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work).
 
 ### Final project
 
@@ -132,11 +132,11 @@ Fewer than 10 students
 
 ### Breakdown by Year
 
-The class included undergraduate and graduate students from MIT, along with exchange students from [Singapore University of Technology and Design](https://www.sutd.edu.sg/).
+The class included undergraduate and graduate students from MIT, along with exchange students from {{% resource_link "a9d46ecc-81ce-4de6-9c19-8a1981b9bbe2" "Singapore University of Technology and Design" %}}.
 
 ### Breakdown by Major
 
-Participants came from a variety of schools, departments, and programs including the Sloan School of Management, Naval Architecture, Math, Mechanical Engineering and [D-Lab](https://d-lab.mit.edu/).
+Participants came from a variety of schools, departments, and programs including the Sloan School of Management, Naval Architecture, Math, Mechanical Engineering and {{% resource_link "283907fc-7907-4268-b613-58b76f64e134" "D-Lab" %}}.
 
 ### Enrollment Cap
 
