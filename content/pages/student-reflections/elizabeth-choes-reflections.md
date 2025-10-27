@@ -15,7 +15,7 @@ uid: b923e518-c6b9-9f57-0dd9-04b61083f145
 
 [Day 1](#Echoe_s_Day_1_Thoughts) | [Day 2](#Echoe_s_Day_2_Thoughts) | [Day 3](#Echoe_s_Day_3_Thoughts) | [Day 4](#Echoe_s_Day_4_Thoughts) | [Day 5](#Echoe_s_Day_5_Thoughts) | [Day 6](#Echoe_s_Day_6_Thoughts) | [Day 7](#Echoe_s_Day_7_Thoughts) | [Day 9](#Echoe_s_Day_9_Thoughts) | [Day 11](#Echoe_s_Day_11_Thoughts)
 
-[_Link to Elizabeth Choe's Page on Tumblr_](http://mit219.tumblr.com/tagged/echoe)
+{{% resource_link "16b38266-65cc-4369-bcb2-aef5f3ad29c6" "_Link to Elizabeth Choe's Page on Tumblr_" %}}
 
 ## {{< anchor "Echoe_s_Day_1_Thoughts" >}}{{< /anchor >}}Day 1 Thoughts
 
@@ -53,7 +53,7 @@ I'm really excited about the group of students we have in this class and to see 
 
 {{< resource 3e2b559e-5731-ba35-8837-68f493cbc3fd >}}
 
-This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "fa517239-a1c7-49b8-bf9f-978b6ad8d4fe" "Elizabeth Choe" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
@@ -113,7 +113,7 @@ I echo Ceri's sentiments - the scripts have come along very, very far. You may w
 
 I realize it's a bit difficult to teach and understand editing without just trying it for yourself… a lot of it really is a matter of taste and preference (remember the class where Chris said that his film school profs never let people cut before 4 seconds? That seems crazy - long to me now.). I could talk on and on and on about editing… I think it's the most undervalued role in production, but then again, the whole point of editing is to be as "unseen" as possible (whereas the talent is meant to be seen as much as possible). If you're interested in more of the "art" of editing, I highly recommend Murch, Walter. _In the Blink of an Eye: A Perspective on Film Editing_. Silman-James Press, 2001. ISBN: 9781879505629. I think it makes a lot of sense to non - video types, and found it to be a unexpectedly beautiful reflection of how to look at the world - editing is that, isn't it? Representing a reality by examining the reality at your disposal… Anyway, I wanted today to be a pragmatic approach to post-production, but at the same time, there is so much you can miss out on when it's reduced to a this - is - what - buttons - you - push - when - you - edit lesson.
 
-Somewhat unrelated, but something I've been thinking about a lot lately: [Ira Glass Interview on Why This American Life Feels So Different from Other Public Radio](https://www.youtube.com/watch?v=YZk88gUdsBw).
+Somewhat unrelated, but something I've been thinking about a lot lately: {{% resource_link "9d7977c3-35b5-41ab-bd51-c7592850e9b9" "Ira Glass Interview on Why This American Life Feels So Different from Other Public Radio" %}}.
 
 Public radio is good at being timely and analytical and giving you the news and doing all these things very, very solid… but what we want to do is take the smell of broccoli out of the air…
 
@@ -149,7 +149,7 @@ I'm guessing David and Joshua were filming in the hotel this afternoon - can't w
 
 {{< resource fe7601ee-9224-9d5b-c7b3-50cb9c8bf95f >}}
 
-This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "fa517239-a1c7-49b8-bf9f-978b6ad8d4fe" "Elizabeth Choe" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Link back to Day 11" "#Instructor_and_Student_Work" %}}
 
