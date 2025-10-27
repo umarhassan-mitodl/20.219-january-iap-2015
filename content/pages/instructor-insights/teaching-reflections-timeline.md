@@ -18,4 +18,4 @@ _This interactive timeline captures Elizabeth Choe reflecting on her teaching in
 
 var timeline\_config = { width: '780', height: '500', source: 'timeline.json', start\_at\_end: false, hash\_bookmark: true, font: 'PTSerif-PTSans', lang: 'en', css: 'https://ocw.mit.edu/styles/timeline.css', js: 'https://ocw.mit.edu/scripts/timeline-min.js' }
 
-\*Content presented in this timeline is subject to our [Creative Commons License](/terms/#cc) and other [terms of use](/terms/). The TimelineJS tool is available at [timeline.knightlab.com](http://timeline.knightlab.com).
+\*Content presented in this timeline is subject to our [Creative Commons License](/terms/#cc) and other [terms of use](/terms/). The TimelineJS tool is available at {{% resource_link "edc3d860-41ce-4d0d-8e11-f3872fafc486" "timeline.knightlab.com" %}}.
