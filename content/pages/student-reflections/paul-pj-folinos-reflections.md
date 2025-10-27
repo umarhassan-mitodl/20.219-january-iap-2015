@@ -15,7 +15,7 @@ uid: 3c8916c0-2b40-6ad3-1644-162454be10f0
 
 [Day 1](#Pjfolino_s_Day_1_Thoughts) | [Day 2](#Pjfolino_s_Day_2_Thoughts) | [Day 3](#Pjfolino_s_Day_3_Thoughts) | [Day 4](#Pjfolino_s_Day_4_Thoughts) | [Day 5](#Pjfolino_s_Day_5_Thoughts) | [Day 6](#Pjfolino_s_Day_6_Thoughts) | [Day 7](#Pjfolino_s_Day_7_Thoughts) | [Day 8](#Pjfolino_s_Day_8_Thoughts) | [Day 11](#Pjfolino_s_Day_11_Thoughts) | [Final Thoughts](#Pjfolino_s_Final_Thoughts)
 
-[_Link to_ _Paul (PJ) Folino's Page on Tumblr_](http://mit219.tumblr.com/tagged/pjfolino)
+{{% resource_link "32d6d59e-001a-4593-ba7a-357da6d16761" "_Link to_ _Paul (PJ) Folino's Page on Tumblr_" %}}
 
 **{{< anchor "Pjfolino_s_Day_1_Thoughts" >}}{{< /anchor >}}**Day 1 Thoughts
 ---------------------------------------------------------------------------
@@ -50,7 +50,7 @@ The script was a good exercise to mentally hash out the video. I transported mys
 
 {{< resource 070a6bf6-dff0-fb13-3efe-5b845627c50d >}}
 
-This video is courtesy of [Paul PJ Folino](http://mit219.tumblr.com/tagged/pjfolino) on Tumblr and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "32d6d59e-001a-4593-ba7a-357da6d16761" "Paul PJ Folino" %}} on Tumblr and is provided under our Creative Commons license.
 
 {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
