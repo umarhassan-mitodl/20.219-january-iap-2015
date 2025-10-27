@@ -10,7 +10,7 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Joshua Cheong's Project
 uid: 32b67e5b-5210-05d4-f811-9b60fb7ee964
 ---
-[*Link to* *Joshua Cheong's Page on Tumblr*](http://mit219.tumblr.com/tagged/joshch)
+{{% resource_link "b499cbc8-8b9b-4157-9d4e-0993baba1c33" "*Link to* *Joshua Cheong's Page on Tumblr*" %}}
 
 ## Contents
 
@@ -29,7 +29,7 @@ uid: 32b67e5b-5210-05d4-f811-9b60fb7ee964
 
 {{< resource uuid="6df84a8a-1b67-ed95-08ef-1677b6dfdd4d" >}}
 
-This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "4a3d9f8b-79fb-49a0-9323-ead7422d995e" "Joshua Cheong" %}} on YouTube and is provided under our Creative Commons license.
 
 OMG! Can my password be stolen from Facebook's database?
 
@@ -65,7 +65,7 @@ So the next time you do a Google search, know that you're in good hands with the
 
 {{< resource uuid="5cba30d1-5ae4-6975-0f9f-36b6aee5dd34" >}}
 
-This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "4a3d9f8b-79fb-49a0-9323-ead7422d995e" "Joshua Cheong" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "36586ba5-68db-37ca-a516-348b595214d8" "*Link back to Day 3*" "#Instructor_and_Student_Work" %}}
 
@@ -307,7 +307,7 @@ Aha! So that's where my gloves are! And that's the story of Search!
 
 {{< resource uuid="72d868a6-41ec-c22a-61b3-a53e3da94cc4" >}}
 
-This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "4a3d9f8b-79fb-49a0-9323-ead7422d995e" "Joshua Cheong" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "*Link back to Day 11*" "#Student_Work" %}}
 
@@ -315,9 +315,9 @@ This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMy
 
 {{< resource uuid="11250ad8-ad7f-167c-266e-8e512d400e96" >}}
 
-This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "4a3d9f8b-79fb-49a0-9323-ead7422d995e" "Joshua Cheong" %}} on YouTube and is provided under our Creative Commons license.
 
-[Creative Commons: CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/us/), MIT
+{{% resource_link "19f82fdf-b379-4585-be4e-85a0c7af6910" "Creative Commons: CC BY-NC-SA" %}}, MIT
 
 Hosted By: Joshua Cheong
 
@@ -333,6 +333,6 @@ Editor: David Yam, Nathan Hernandez, Elizabeth Choe, Ceri Riley
 
 Production Assistant: David Yam
 
-[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108852064906/creative-commons-cc-by-nc-sa-mit)
+{{% resource_link "62c28c33-8973-40c5-b120-878ef1fe073f" "See the full credits on the course Tumblr." %}}
 
 {{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "*Link back to Day 13*" "#Student_Work" %}}

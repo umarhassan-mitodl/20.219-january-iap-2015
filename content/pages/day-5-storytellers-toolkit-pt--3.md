@@ -33,11 +33,11 @@ What are the non-verbal elements that go into a video, and how do you integrate 
 
 ### In-class Media: Visual Language
 
-- MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)](https://youtu.be/K9mhXBOhuHU)." October 23, 2014. YouTube.
-- MITK12Videos. "[How To Discover A New Planet (Science Out Loud S1 Ep1)](https://youtu.be/4RarO2wS14Q)." YouTube. May 12, 2014.
-- MITK12Videos. "[Engineering Trash Into Treasure (Science Out Loud S2 Ep4)](https://youtu.be/GzhFgEYiVyY)." November 6, 2014. YouTube.
-- edX. "[Street Fighting Math | MITx on edX | About Page](https://youtu.be/u23ZUSu7-HY)." February 13, 2014. YouTube.
-- edX. "[Intro to Aerospace Engineering | MITx on edX | Course About Video (Coming soon!)](https://youtu.be/Nugc_RO56cQ)." December 30, 2015. YouTube.
+- MITK12Videos. "{{% resource_link "1e13a286-0606-4fab-a373-b2504f4f0c30" "Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)" %}}." October 23, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "f6e843ba-d9c2-4e36-aa92-d08448301143" "How To Discover A New Planet (Science Out Loud S1 Ep1)" %}}." YouTube. May 12, 2014.
+- MITK12Videos. "{{% resource_link "33a69ce4-1372-4d02-b790-b35bdc821cd1" "Engineering Trash Into Treasure (Science Out Loud S2 Ep4)" %}}." November 6, 2014. YouTube.
+- edX. "{{% resource_link "ce16c398-f3a7-4110-8e50-d058143caf63" "Street Fighting Math | MITx on edX | About Page" %}}." February 13, 2014. YouTube.
+- edX. "{{% resource_link "24b36172-1190-4680-90a1-718997ea8179" "Intro to Aerospace Engineering | MITx on edX | Course About Video (Coming soon!)" %}}." December 30, 2015. YouTube.
 
 ## {{< anchor "Part_3:_Producing_a_Video" >}}{{< /anchor >}}Part 3: Producing a Video
 
@@ -45,13 +45,13 @@ What are the non-verbal elements that go into a video, and how do you integrate 
 
 ### In-class Media: Producing Case Studies
 
-- SciShow. "[The 4 Most Irreplaceable Places.](https://youtu.be/nsp2VLsie_E)" November 17, 2013. YouTube.
-- MITK12Videos. "[Engineering Engines (Science Out Loud S1 Ep 6)](https://youtu.be/y2vzH1MjRqQ)." June 30, 2014. YouTube.
-- MITK12Videos. "[How Computers Compute (Science Out Loud S2 Ep5)](https://youtu.be/8cVsgFN3hSM)." November 13, 2014. YouTube.
-- MITK12Videos. "[Squid Skin with a Mind of Its Own (Science Out Loud S1 Ep4)](https://youtu.be/mlzxxD9A07E)." June 2, 2014. YouTube.
-- MITK12Videos. "[Engineering Trash Into Treasure (Science Out Loud S2 Ep4)](https://youtu.be/GzhFgEYiVyY)." November 6, 2014. YouTube.
-- MITK12Videos. "[Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)](https://youtu.be/K9mhXBOhuHU)." October 23, 2014. YouTube.
-- MITK12Videos. "[Why Do We Have Snot? (MIT Explains)](https://youtu.be/zDo-UG3i75o)." May 14, 2015. YouTube.
+- SciShow. "{{% resource_link "65e133cc-63af-4b4b-9a5b-b0014e18bcb5" "The 4 Most Irreplaceable Places." %}}" November 17, 2013. YouTube.
+- MITK12Videos. "{{% resource_link "7abb9811-d9f1-4be0-a3b8-f77a833ab8d6" "Engineering Engines (Science Out Loud S1 Ep 6)" %}}." June 30, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "c9cb921d-ac36-444d-a4bb-07bb71468ce2" "How Computers Compute (Science Out Loud S2 Ep5)" %}}." November 13, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "74896836-186d-4bbc-afc5-70c5956e579e" "Squid Skin with a Mind of Its Own (Science Out Loud S1 Ep4)" %}}." June 2, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "33a69ce4-1372-4d02-b790-b35bdc821cd1" "Engineering Trash Into Treasure (Science Out Loud S2 Ep4)" %}}." November 6, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "1e13a286-0606-4fab-a373-b2504f4f0c30" "Solving Biology's Mysteries with Plants (Science Out Loud S2 Ep2)" %}}." October 23, 2014. YouTube.
+- MITK12Videos. "{{% resource_link "9c949155-3d4a-4463-8caa-84faeaaa13e8" "Why Do We Have Snot? (MIT Explains)" %}}." May 14, 2015. YouTube.
 
 ## {{< anchor "Part_4:_Filming" >}}{{< /anchor >}}Part 4: Filming
 

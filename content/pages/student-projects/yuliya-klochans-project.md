@@ -10,7 +10,7 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Yuliya Klochan's Project
 uid: 199a8a68-327f-ee7d-62ee-54642710c541
 ---
-[*Link to* *Yuliya Klochan's Page on Tumblr*](http://mit219.tumblr.com/tagged/yklochan)
+{{% resource_link "95eeb5c5-5bae-429e-8e67-d630a4d2218c" "*Link to* *Yuliya Klochan's Page on Tumblr*" %}}
 
 ## Contents
 
@@ -30,7 +30,7 @@ uid: 199a8a68-327f-ee7d-62ee-54642710c541
 
 {{< resource uuid="8e63c182-7651-0bb9-9b75-2c2254bc2a59" >}}
 
-This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "11c30191-93c6-4985-a5ce-75d80d8ea6fb" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
 
 The beginning of an odd mathematical journey that asks (but cannot always answer) questions like, "Is math true?" or "Could The Matrix scenario happen to us?"
 
@@ -124,7 +124,7 @@ Save the world with math. No superpowers required.
 
 {{< resource uuid="0cce493e-b93f-c3e9-4588-155aec2dce0f" >}}
 
-This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "11c30191-93c6-4985-a5ce-75d80d8ea6fb" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "36586ba5-68db-37ca-a516-348b595214d8" "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
@@ -228,7 +228,7 @@ Well, in the 90's, a radio astronomer by the name of Nathan Cohen was having tro
 
 The landlord didn't notice it, **and** it worked better than the ones before!
 
-Working further, Cohen designed a new version, this time using a shape called "[the Menger Sponge](http://blog.zacharyabel.com/wp-content/uploads/2012/02/Menger-stages-big.png)" (voiceover over animation of traveling through the Menger Sponge). The fractal's infinite "sponginess" allowed the antennae to receive multiple different signals.
+Working further, Cohen designed a new version, this time using a shape called "{{% resource_link "2d0a86c3-4635-48c6-9ce0-c61a1877eb3d" "the Menger Sponge" %}}" (voiceover over animation of traveling through the Menger Sponge). The fractal's infinite "sponginess" allowed the antennae to receive multiple different signals.
 
 (soapy sponge used as prop; maybe host is in shower?)
 
@@ -381,7 +381,7 @@ Look around you. What beautiful patterns do you see?
 
 {{< resource uuid="0c990edf-7f53-41ad-ed67-0e524f7e2be4" >}}
 
-{{% resource_link "dd2e9064-39f5-8292-7c78-a9141317dcc6" "This video is courtesy of" "#Student_Work" %}} [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
+{{% resource_link "dd2e9064-39f5-8292-7c78-a9141317dcc6" "This video is courtesy of" "#Student_Work" %}} {{% resource_link "11c30191-93c6-4985-a5ce-75d80d8ea6fb" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link "91a83a5a-9923-d001-da64-fbbcd37341cb" "Link back to Day 11" "#Student_Work" %}}
 
@@ -389,7 +389,7 @@ Look around you. What beautiful patterns do you see?
 
 {{< resource uuid="f9828400-95e8-4546-a040-5fb6f1e60de4" >}}
 
-This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "11c30191-93c6-4985-a5ce-75d80d8ea6fb" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
 
 Fractals!
 
@@ -401,14 +401,14 @@ Written By: Yuliya Klochan
 
 Additional Scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan, students of 20.219
 
-[See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108819986121/fractals-creative-commons-cc-by-nc-sa-mit)
+{{% resource_link "08138df8-1934-4b41-857f-d14a20f96d08" "See the full credits on the course Tumblr." %}}
 
 {{% resource_link "2dc5287f-35ed-e833-9c9b-93f4238ac687" "Link back to Day 13" "#Student_Work" %}}
 
 ## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 
-Yuliya's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
+Yuliya's video was professionally produced by {{% resource_link "79738379-190e-4fcb-8000-15202901cf9b" "Science Out Loud" %}} after this course finished.
 
 {{< resource uuid="6594298b-14f3-b172-be08-6831319ae826" >}}
 
-This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
+This video is from {{% resource_link "a3c492cb-6d4a-45af-954e-6101974055ef" "MITK12Videos" %}} on YouTube and is provided under their {{% resource_link "7a34b324-9cae-45c1-bf3c-11c9a1155e1f" "Creative Commons" %}} license.

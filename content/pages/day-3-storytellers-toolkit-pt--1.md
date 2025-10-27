@@ -37,7 +37,7 @@ This session could be called: Making People Care 101. We'll cover what makes for
 
 ### In-class Media
 
-- PRI Public Radio International. "[Ira Glass on Storytelling, part 1 of 4](https://www.youtube.com/watch?v=5pFI9UuC_fc)." August 18, 2009. YouTube.
+- PRI Public Radio International. "{{% resource_link "8bc1bd07-1f8e-40f6-aff6-adca73ce39d2" "Ira Glass on Storytelling, part 1 of 4" %}}." August 18, 2009. YouTube.
 
 ## {{< anchor "Part_2:_Hosting_Workshop" >}}{{< /anchor >}}Part 2: Hosting Workshop
 
