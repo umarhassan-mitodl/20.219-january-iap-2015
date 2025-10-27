@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '3308596'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -36,5 +34,5 @@ License: Creative Commons BY-NC-SA
 
 More information at [http://ocw.mit.edu/terms](/terms)
 
-More courses at [http://ocw.mit.edu](http://ocw.mit.edu)
+More courses at {{% resource_link "aaabff31-e3a0-4373-88bf-d373e951ec70" "http://ocw.mit.edu" %}}
 

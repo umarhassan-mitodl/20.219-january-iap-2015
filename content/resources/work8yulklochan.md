@@ -4,8 +4,6 @@ description: ''
 file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/46aaa846b699f143f03edc11c43fc874_work8YulKlochan.jpg
 file_size: 24581
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

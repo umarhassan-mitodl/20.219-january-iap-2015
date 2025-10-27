@@ -15,7 +15,7 @@ uid: 1d988e03-5e65-811f-e6d8-e82355f3c4a7
 
 [Day 1](#DAY_1-Ceriley) | [Day 2](#Reflection_Day_2) | [Day 3](#Reflection_Day_3) | [Day 4](#Reflection_Day_4) | [Day 5](#Ceriley_s_Day_5_Reflections) | [Day 7](#Ceriley_s_Day_7_Reflections) | [Day 11](#Ceriley_s_Day_11_Reflections)
 
-[_Link to Ceri Riley's Page on Tumblr_](http://mit219.tumblr.com/tagged/ceriley)
+{{% resource_link "cbc54a0d-645d-438c-a3f4-9fdfe792a0e7" "_Link to Ceri Riley's Page on Tumblr_" %}}
 
 {{< anchor "DAY_1-Ceriley" >}}{{< /anchor >}}Day 1
 --------------------------------------------------
@@ -35,7 +35,7 @@ I also have to refrain from jumping into all the discussions because I have a lo
 
 {{< resource 205102d8-d22c-e1dc-25e6-9cfa363d88bf >}}
 
-This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT39JafbO-L-VGet9A) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "e09779cd-21d2-4a04-86b9-4bae798007cc" "Ceri Riley" %}} on YouTube and is provided under our Creative Commons license.
 
 I think my written posts will always be more composed than an off-the-cuff vlog, but it's still good practice to get more comfortable in front of the camera!
 
@@ -46,15 +46,15 @@ I think my written posts will always be more composed than an off-the-cuff vlog,
 
 {{< resource b1607e6f-0fde-fab5-87cb-3d3d9444e21d >}}
 
-This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT39JafbO-L-VGet9A) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "e09779cd-21d2-4a04-86b9-4bae798007cc" "Ceri Riley" %}} on YouTube and is provided under our Creative Commons license.
 
 Thoughts about the creative process and acting exercises.
 
 ### Links I Mention
 
-Get out the box. "[Ira Glass on the Creative Process](http://www.youtube.com/watch?v=PbC4gqZGPSY)." 21 July, 2011. YouTube.
+Get out the box. "{{% resource_link "5583024b-5348-4814-ab8b-d45a05bbfe80" "Ira Glass on the Creative Process" %}}." 21 July, 2011. YouTube.
 
-karldallas. "[Olivier's Hamlet film (1948): To Be Or Not To Be soliloquy](https://www.youtube.com/watch/?v=5ks-NbCHUns&index=1&list=PL8474363E94B4CF05)." 26 January, 2010. YouTube. (the 4th one in the playlist is David Tennant's in case you were wondering)
+karldallas. "{{% resource_link "d41e19a4-e9b9-454d-b3eb-0739c5263eac" "Olivier's Hamlet film (1948): To Be Or Not To Be soliloquy" %}}." 26 January, 2010. YouTube. (the 4th one in the playlist is David Tennant's in case you were wondering)
 
 {{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
@@ -63,7 +63,7 @@ karldallas. "[Olivier's Hamlet film (1948): To Be Or Not To Be soliloquy](https:
 
 {{< resource 9fc5155b-3f54-a629-eba0-c8ab98448d17 >}}
 
-This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT39JafbO-L-VGet9A) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "e09779cd-21d2-4a04-86b9-4bae798007cc" "Ceri Riley" %}} on YouTube and is provided under our Creative Commons license.
 
 tl;dr if anyone needs (rudimentary) animation help, let me know after class someday!
 

@@ -15,7 +15,7 @@ uid: 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564
 
 [Day 1](#First_Day) | [Day 2](#David_Yam_Day_2_Thoughts) | [Day 4](#Day_4) | [Day 5](#_Day_5_Reflections) | [Day 6](#_Day_6_Reflections) | [Day 11](#Day_11_Thoughts) | [Final Reflections](#Final_Reflections)
 
-[_Link to_ _David Yam's Page on Tumblr_](http://mit219.tumblr.com/tagged/davidyam)
+{{% resource_link "c9a6b84d-e800-4a52-b480-ffca05965d22" "_Link to_ _David Yam's Page on Tumblr_" %}}
 
 **{{< anchor "First_Day" >}}{{< /anchor >}}**First Day: Lots of Things to Do
 ----------------------------------------------------------------------------

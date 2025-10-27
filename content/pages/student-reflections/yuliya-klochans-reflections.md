@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the reflections (in the form of blogs and vlogs)
   of Yuliya Klochan on the course and the course project.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Reflections
@@ -17,7 +15,7 @@ uid: 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c
 
 [Day 1](#Yklochan_Day_1_Thoughts) | [Day 2](#Day_2_Thoughts_and_Feelings) | [Day 3](#DAY_3) | [Day 4](#DAY_4) | [Day 5](#Day_5_Thoughts) | [Day 6](#Day_6_Vlog) | [Day 7](#Day_7) | [Day 11](#Day_11) | [Final Reflection](#Final_Reflection)
 
-[_Link to_ _Yuliya Klochan's Page on Tumblr_](http://mit219.tumblr.com/tagged/yklochan)
+{{% resource_link "95eeb5c5-5bae-429e-8e67-d630a4d2218c" "_Link to_ _Yuliya Klochan's Page on Tumblr_" %}}
 
 **{{< anchor "Yklochan_Day_1_Thoughts" >}}{{< /anchor >}}**Day 1 Thoughts
 -------------------------------------------------------------------------
@@ -96,7 +94,7 @@ I look forward to the Monday critique session. Now I really wish I'd had a scrip
 
 The class today was quite technical, which further deepened my understanding of how little I know. I don't mean that in a bad way, though. Seeing how much work is done behind the scenes is fascinating. And it's empowering to know that I'm not the only one putting a lot of time and effort in the production. In fact, I'm not doing nearly as much work as a professional team.
 
-On a similar note, yesterday I accidentally clicked on a SciShow video by Hank Green from 2012 while trying to find inspiration for the script. How horrific it was! I had to check whether the host was indeed Hank in the description, twice. There was none of the wacky spark, or the confidence, or the quick narrative. The camera didn't really move much, and tiny images popped up in the corners without really adding much to the video. Oh, and the jokes were awful! Or at least they weren't delivered well by this slower, quieter version of Hank. The example was helpful, because it showed how much a producer can improve. Here is the video: [The Sex Lives of Early Humans](http://www.youtube.com/watch?v=wj0qx56cwOw). I still shudder seeing how very awkward and scared Hank Green looks in front of the camera. Now, however, SciShow is my favorite science YouTube channel. Hank Green is my favorite host.
+On a similar note, yesterday I accidentally clicked on a SciShow video by Hank Green from 2012 while trying to find inspiration for the script. How horrific it was! I had to check whether the host was indeed Hank in the description, twice. There was none of the wacky spark, or the confidence, or the quick narrative. The camera didn't really move much, and tiny images popped up in the corners without really adding much to the video. Oh, and the jokes were awful! Or at least they weren't delivered well by this slower, quieter version of Hank. The example was helpful, because it showed how much a producer can improve. Here is the video: {{% resource_link "789d10fd-90ef-4ba7-9137-0df10f1e48c6" "The Sex Lives of Early Humans" %}}. I still shudder seeing how very awkward and scared Hank Green looks in front of the camera. Now, however, SciShow is my favorite science YouTube channel. Hank Green is my favorite host.
 
 The start of filming today went quite poorly. One location had great lighting but a dreadful echo. Outside, the wind blocked out almost every word. A lot of my shots are meant to be done by the Charles River, and I doubt now that this can be done. The wind is a regular occurrence these days. I'm considering a new location already.
 
@@ -109,7 +107,7 @@ Seems kind of odd that I won't be working on the video as much this weekend. I'l
 
 {{< resource 17d0de5b-6346-f7a2-10da-a0be35131e08 >}}
 
-This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "11c30191-93c6-4985-a5ce-75d80d8ea6fb" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" %}}
 
@@ -118,7 +116,7 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 {{< resource 07e94a1f-b3fe-fea3-1b9b-5dfcf83e2125 >}}
 
-This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
+This video is courtesy of {{% resource_link "11c30191-93c6-4985-a5ce-75d80d8ea6fb" "Yuliya Klochan" %}} on YouTube and is provided under our Creative Commons license.
 
 {{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" %}}
 

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains information about the grading rubric of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -33,16 +31,16 @@ The total grade for this class will be based upon the following weighted factors
 
 *   20% Daily Blog / Vlog Reflections
     *   You are expected to upload documentation on your process / difficulties / lessons learned in completing assignments or insights gained from class workshops. This can take the form of a written blog post reflection, photos, a "selfie" video (\<2 min.), or other creative media format of your choice. I (Elizabeth) will upload examples on the class site along with you all.
-    *   [Instructions for how to post your blog/vlog on Tumblr](http://mit219.tumblr.com/how-tumblr)
+    *   {{% resource_link "6f637c8c-b0e6-45bc-aa28-187b206166ec" "Instructions for how to post your blog/vlog on Tumblr" %}}
     *   You must post daily blogs by 10 AM the following day.
     *   Rubric: Daily assignments will be graded on a three-point scale of good, sufficient, or incomplete (or a zero for no or late work).
 
 *   25% Workshop Products
     *   Working on your own or in small teams, you will be required to produce iterations of your final project components (scripts, storyboards, scenes, rough cuts, etc.)
-    *   For reading assignments, documents will be posted on [Annotation Studio](http://www.annotationstudio.org/). Comment on the document with your responses to the readings and to your classmates. This will be graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work).
+    *   For reading assignments, documents will be posted on {{% resource_link "39a904f3-1838-4e5c-b8ae-599965f921a6" "Annotation Studio" %}}. Comment on the document with your responses to the readings and to your classmates. This will be graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work).
 
 *   30% Final Project
     *   The work over IAP will culminate in each of you creating a \<5 min. episode. Individual grades = 65% your work (script, hosting, etc.), 35% the production you did for your partner (filming).
-    *   We will select the top projects to professionally produce for Season 3 of [Science Out Loud.](https://www.pbslearningmedia.org/collection/mits-science-out-loud/)
+    *   We will select the top projects to professionally produce for Season 3 of {{% resource_link "73bfcc2f-0ae6-43a7-a823-a6bb597fb44c" "Science Out Loud." %}}
 
 « {{% resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Previous" %}} | {{% resource_link 762628fe-626b-dca9-9e46-4c51f60992c0 "Next" %}} »

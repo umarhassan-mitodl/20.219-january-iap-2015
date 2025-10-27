@@ -15,7 +15,7 @@ uid: e9794c3b-05c8-8173-ff70-a55f9946067b
 
 [Day 1](#Cheahyhk_s_Thoughts_on_Day_1_) | [Day 2](#Blog_Entry_Day_2__Cheahyhk_) | [Day 3](#CHEAHYHK_DAY_3) | [Day 4](#Day_4_Blog_Post)
 
-[_Link to Kenneth's Page on Tumblr_](http://mit219.tumblr.com/tagged/cheahyhk)
+{{% resource_link "c423bc24-2854-499f-9a52-964f81785c88" "_Link to Kenneth's Page on Tumblr_" %}}
 
 **{{< anchor "Cheahyhk_s_Thoughts_on_Day_1_" >}}{{< /anchor >}}**Thoughts on Day 1!
 -----------------------------------------------------------------------------------

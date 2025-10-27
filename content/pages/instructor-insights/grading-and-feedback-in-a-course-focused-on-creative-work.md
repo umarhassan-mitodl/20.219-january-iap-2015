@@ -5,8 +5,6 @@ description: "In this section Elizabeth Choe and Jaime Goldstein talk about how 
   \ creative work. They also discuss the challenges associated with and strategies\
   \ for providing students with meaningful feedback about their work. Their conversation\
   \ has been edited for clarity, length, and content."
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
